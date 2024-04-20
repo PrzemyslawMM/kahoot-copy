@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-page-custom-font */
 import React from "react";
+import "./global.css";
 
 const RootLayout = ({
   children,
